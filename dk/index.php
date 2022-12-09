@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>Mega Joker Casino</title>
+    <link rel="shortcut icon" type="image/png" href="./images/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css"/>
+    <link rel="stylesheet" href="./css/main.min.css?ver=4" />
+</head>
+
+<body>
+    <header class="header">
+        <div class="header__container">
+        <h1 class="header__title">top online casino <br> brands 2022</h1>
+        </div>
+    </header>
+
+    <main>
+        <section class="section hero">
+            <div class="container hero__block">
+            <img srcset="./images/slotsstarburst.png 1x, ./images/slotsstarburst.png 2x" 
+            src="./images/slotsstarburst.png"
+                            alt="star" class="hero__slotsstar">
+                                       
+            <div class="hero__box">
+                <div class="hero__slots">
+                <img srcset="./images/MR-Logo.png 1x, ./images/MR-Logo.png 2x" 
+                src="./images/MR-Logo.png" 
+                alt="logo" 
+                class="hero__logo">
+                </div>
+                
+                <div class="hero__items">
+                    <ul>
+                        <li class="hero__item"><img srcset="./images/5stars.png 1x, ./images/5stars.png 2x" 
+                            src="./images/5stars.png" 
+                            alt="stars" 
+                            class="hero__5stars"></li>
+
+                        <li class="hero__item">
+                            <p class="title__hero"><span class="accent-color">100%</span> bonus up to <span class="accent-color">900 DKK</span> +<br><span class="accent-color">200</span> extra spins</p>
+                            <!-- <a target="_blank" class="tc-tooltip desktop-tooltip" href="https://www.magicred.com/">T&C’s apply</a>
+                            <span target="_balnk" class="tc-tooltip mobile-tooltip tc-tooltip-1">T&C’s apply</span>
+                            <span class="tooltip-content tooltip-content-1">New players only, 100 DKK min fund, 900 DKK max bonus, max bonus conversion equal to lifetime deposits (up to 900 DKK), 65x wagering requirements and full T&Cs apply here
+        </span> -->
+                        </li>
+
+                        <li class="hero__item-margin">
+                            <form action="" target="_blank">
+                            <a href="https://www.magicred.com/" target="_blank">
+                            <button class="button__hero hvr-grow" type="button" style="margin-bottom: 0px;">Play now</button></li>
+                        </a>
+                        </form>
+                        </div>
+                    </ul>
+            </div>
+        </div>
+        </section>
+
+      <section class="raiting section" id="raiting">
+            <div class="container">
+        <h2 hidden>Rating</h2>
+        <!-- <div class="raiting__tc-links" > 
+          <a href="#raiting" style="margin: 0 10px 0 0" data-modal-open3>Advertiser Disclosure</a>
+          <a href="#raiting" data-modal-open2>18+ T&C Apply</a>
+        </div>  -->
+
+<!-- START OF THE BRANDS LIST-->
+            <ul class="raiting__list">
+
+<!--  START OF BRAND #2 IN RATING LIST -->
+          <li>
+              <div class="raiting__box">
+                <div class="raiting__box-1">
+            <img srcset="./images/888-Casino.webp 1x, ./images/888-Casino.webp 2x" 
+            src="./images/888-Casino.webp" 
+            alt="Logo1" 
+            class="icon__raiting">
+                </div>
+
+                <div class="raiting__stars-box">
+                    <ul class="raiting__stars">
+                        <li><p class="raiting__text">rating:</p></li>
+                        <li><div class="raiting__img-number">
+                    <img srcset="./images/starRating.png 1x, ./images/starRating.png 2x" 
+                    src="./images/starRating.png"
+                    alt="Logo1"
+                    class="logo__starsRating">
+                            <p class="raiting__number">9,6/10</p>
+                            </div>
+                            </li>
+                    </ul>
+                </div>
+                <div class="raiting__content">
+                    <p class="title__hero-margin"><span class="accent-color">100%</span>  bonus up to <span class="accent-color">900 DKK</span>
+                    +<br><span class="accent-color">200</span> extra spins</p>
+                    <!-- <a target="_blank" class="tc-tooltip desktop-tooltip" 
+                    href="https://www.888casino.com/">T&C’s apply</a>
+                            <span target="_balnk" class="tc-tooltip mobile-tooltip tc-tooltip-1">T&C’s apply</span>
+                            <span class="tooltip-content tooltip-content-1">New players only, 100 DKK min fund, 900 DKK max bonus, max bonus conversion equal to lifetime deposits (up to £250), 65x wagering requirements and full T&Cs apply here 
+                            </span>
+                     -->
+                    <a href="https://www.888casino.com/" target="_blank">
+                    <button class="button__hero hvr-grow" type="button">Play now</button>
+                    </a>
+                </div> 
+                </div>
+        </li>
+<!--  END OF BRAND #2 IN RATING LIST -->
+
+
+<!--  START OF BRAND #3 IN RATING LIST -->
+    <li>
+        <div class="raiting__box">
+            <div class="raiting__box-1">
+                <img srcset="./images/luckland.png 1x, ./images/luckland.png 2x" 
+                src="./images/luckland.png" alt="Logo2"
+                    class="icon__raiting">
+            </div>
+    
+            <div class="raiting__stars-box">
+                <ul class="raiting__stars">
+                    <li>
+                        <p class="raiting__text">rating:</p>
+                    </li>
+                    <li>
+                        <div class="raiting__img-number">
+                            <img srcset="./images/starRating2.png 1x, ./images/starRating2.png 2x"
+                                src="./images/starRating2.png" 
+                                alt="Logo2" class="logo__starsRating">
+                            <p class="raiting__number">9,5/10</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="raiting__content">
+                <p class="title__hero-margin"><span class="accent-color">100%</span>  bonus up to <span class="accent-color">900 DKK</span>
+                    +<br><span class="accent-color">200</span> extra spins</p>
+                <!-- <a target="_blank" class="tc-tooltip desktop-tooltip" 
+                    href="https://www.luckland.com/">T&C’s apply</a>
+                            <span target="_balnk" class="tc-tooltip mobile-tooltip tc-tooltip-1">T&C’s apply</span>
+                            <span class="tooltip-content tooltip-content-1">New players only, 100 DKK min fund, 900 DKK max bonus, max bonus conversion equal to lifetime deposits (up to 900 DKK), 65x wagering requirements and full T&Cs apply here
+                  </span> -->
+                    <a href="https://www.luckland.com/" target="_blank">
+                <button class="button__hero hvr-grow" type="button">Play now</button></a>
+            </div>
+        </div>
+    </li>
+<!--  END OF BRAND #3 IN RATING LIST -->
+
+
+<!--  START OF BRAND #4 IN RATING LIST -->
+    <li>
+        <div class="raiting__box">
+            <div class="raiting__box-1">
+                <img srcset="./images/mr-green.png 1x, ./images/mr-green.png 2x" 
+                src="./images/mr-green.png" alt="Logo1"
+                    class="icon__raiting">
+            </div>
+    
+            <div class="raiting__stars-box">
+                <ul class="raiting__stars">
+                    <li>
+                        <p class="raiting__text">rating:</p>
+                    </li>
+                    <li>
+                        <div class="raiting__img-number">
+                            <img srcset="./images/starRating3.png 1x, ./images/starRating3.png 2x"
+                                src="./images/starRating3.png" alt="Logo3" class="logo__starsRating">
+                            <p class="raiting__number">9,4/10</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="raiting__content">
+                <p class="title__hero-margin"><span class="accent-color">100%</span>  bonus up to <span class="accent-color">900 DKK</span>
+                    +<br><span class="accent-color">200</span> extra spins</p>
+                <!-- <a target="_blank" class="tc-tooltip desktop-tooltip" 
+                    href="https://www.mrgreen.com/">T&C’s apply</a>
+                            <span target="_balnk" class="tc-tooltip mobile-tooltip tc-tooltip-1">T&C’s apply</span>
+                            <span class="tooltip-content tooltip-content-1">18+. Minimum deposit 200 DKK. Wagering requirement apply 35x. 
+                                Offer valid for 24 hours. New players only, Terms and Conditions apply
+                  </span> -->
+                <a href="https://www.mrgreen.com/" target="_blank">
+                <button class="button__hero hvr-grow" type="button">Play now</button></a>
+            </div>
+        </div>
+    </li>
+<!--  END OF BRAND #4 IN RATING LIST -->
+
+
+<!--  START OF BRAND #5 IN RATING LIST -->
+    <li>
+        <div class="raiting__box">
+            <div class="raiting__box-1">
+                <img srcset="./images/NordicBet.png 1x, ./images/NordicBet.png 2x" 
+                src="./images/NordicBet.png" alt="Logo4"
+                    class="icon__raiting">
+            </div>
+    
+            <div class="raiting__stars-box">
+                <ul class="raiting__stars">
+                    <li>
+                        <p class="raiting__text">rating:</p>
+                    </li>
+                    <li>
+                        <div class="raiting__img-number">
+                            <img srcset="./images/starRating5.png 1x, ./images/starRating5.png 2x"
+                                src="./images/starRating5.png" alt="Logo1" class="logo__starsRating">
+                            <p class="raiting__number">9,3/10</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="raiting__content">
+               <p class="title__hero-margin"><span class="accent-color">100%</span>  bonus up to <span class="accent-color">900 DKK</span>
+                    +<br><span class="accent-color">200</span> extra spins</p>
+                <!-- <a target="_blank" class="tc-tooltip desktop-tooltip" 
+                    href="https://www.nordicbet.com/en/casino">T&C’s apply</a>
+                            <span target="_balnk" class="tc-tooltip mobile-tooltip tc-tooltip-1">T&C’s apply</span>
+                            <span class="tooltip-content tooltip-content-1">New players only, 100 DKK min fund, 900 DKK max bonus, max bonus conversion equal to lifetime deposits (up to 900 DKK), 65x wagering requirements and full T&Cs apply here
+                  </span> -->
+                </p>
+                <a href="https://www.nordicbet.com/en/casino" target="_blank">
+                <button class="button__hero hvr-grow" type="button">Play now</button></a>
+            </div>
+        </div>
+    </li>
+<!--  END OF BRAND #5 IN RATING LIST -->
+
+        </ul>
+
+<!-- END OF THE BRANDS LIST-->        
+
+    </div>
+    </section>
+
+ <footer class="footer">
+            <div class="footer__container">
+                <div class="footer-tablet">
+                    <div class="footer__content text-uppercase">
+                        <div>Gambling Can Be Addictive, Please Play Responsibly</div>
+                         <p>FOR ADULTS ONLY(18+)</p>
+                        <div>2022 © Megajokercasino.com</div>
+                        <img srcset="./images/Age.png 1x, ./images/Age.png 2x" src="./images/Age.png" alt="Age"
+                            class="icon__footer-age">
+
+                    <div id="footer">
+                        <a href="https://www.gamcare.org.uk/">GAMCARE</a> |
+                        <a href="https://www.begambleaware.org/">GAMBLEAWARE</a> |
+                        <a href="https://www.stopspillet.dk/">STOPSPILLET</a>
+                        <!-- |
+                        <a href="https://www.gamcare.org.uk/">Gamcare</a>
+                        |
+                        <a href="https://www.gamblingtherapy.org/en">Gambling Therapy</a> -->
+                    </div>
+                    <!-- <noindex>
+                        <a href="#footer" data-modal-open4>Privacy Policy</a>
+                    </noindex>
+                        | -->
+                        <a href="#footer" data-modal-open5>CONTACT US</a>
+            </div>
+            </div>
+            </div>
+        </footer>
+
+        <div class="modal__backdrop4 is-hidden4" data-modal4>
+            <div class="modal4" data-form-modal4>
+                
+                <button type="button" class="button__modal4" data-modal-close4> 
+                    <svg class="icon__close4">
+                        <use href="./images/icons.svg#icon-close"></use>
+                    </svg>
+                </button>
+
+                <div style="padding: 10px;">
+                <span class="modal__hero-text">
+                    <p class="modal__p">This privacy policy aimed to explain how jamminjarslot.com (“we”, “our” or “us”) 
+                        uses and protects any data that visitors (“you”, “your”) provide us when you use our website. </p>
+                        <p class="modal__p">
+                            We may gather personal identification information from visitors of our website in the following cases:
+                        </p>
+                        <ul class="modal__ul">
+                            <li style="display: list-item;
+                            text-align: -webkit-match-parent; list-style: disc;">when you access our website, we may collect IP address and Location data;</li>
+                            <li style="display: list-item;
+                            text-align: -webkit-match-parent; list-style: disc;">when a visitor contacts us and provides personal 
+                                information such as email address or name; then we will only use this data to send you a reply.</li>
+                        </ul>
+                        <h3>Cookies</h3>
+                        <p class="modal__p">We use “cookies” on this site. A cookie is a small text file which our website sends to your hard drive 
+                            to help us keep track of your movements within the site and carry out research to improve our marketing content, 
+                            products and services. Usage of a cookie does not concern any personal information of yours.</p>
+                            <p class="modal__p">
+                                We use Google Analytics on our website, which in its turn uses cookies to track your behavior on our site & your preferences. 
+                                This data then used by us to compile statistical marketing reports via Google Analytics. 
+                                We never share any data with third parties, however we are in no control of processing of such data by Google. 
+                            </p>
+                            <p class="modal__p">
+                                The settings of cookies can be changed in your browser should you wish to accept or reject all cookies when you visit websites.
+                            </p>
+                            <p class="modal__p">megajokercasino.com contains links to other websites. 
+                                When you use these links to leave our site, please be advised that we do not have any control over other websites. 
+                                Therefore, we cannot be responsible for the protection and privacy 
+                                of any information which you provide when visiting such sites and such sites are not governed by this privacy statement.</p>
+                                <p class="modal__p">
+                                    We may update this policy from time to time. The updated version will be placed on this page.
+                                </p>
+                                <p class="modal__p">
+                                    This site is not intended for use by anyone under the age of 18.
+                                </p>
+                                <p class="modal__p">
+                                    If you have any questions regarding this Privacy Policy, feel free to reach us
+                                </p>
+                    <!-- <span class="modal__close4" data-modal-close4>Close window</span> -->
+                </span>
+            </div>
+
+            </div>
+        </div>  
+
+        <div class="modal__backdrop5 is-hidden5" data-modal5>
+            <div class="modal5" data-form-modal5>
+
+                <button type="button" class="button__modal5" data-modal-close5> 
+                    <svg class="icon__close5">
+                        <use href="./images/icons.svg#icon-close"></use>
+                    </svg>
+                </button>
+
+                <form autocomplete="on" 
+                class="modal__form5"
+                action="send_mail.php"
+                id="form" 
+                name="form"
+                method="post">
+                    <p class="modal__heading5">Please enter your details below</p>
+
+                    <label class="modal__thumb5">
+                        <span class="modal__label">Name</span>
+                        <input class="modal__input5" 
+                        type="text" 
+                        name="name" 
+                        id="name"> 
+
+                        <svg class="icon__modal-img">
+                         <use href="./images/icons.svg#person"></use>  
+                        </svg>       
+                    </label>
+            
+                    <label class="modal__thumb5">
+                        <span class="modal__label">Email</span>
+                        <input type="email" 
+                        name="email" 
+                        id="order-mail" 
+                        class="modal__input5">
+
+                        <svg class="icon__modal-img">
+                            <use href="./images/icons.svg#icon-emailblack"></use>  
+                           </svg>      
+                        </label>       
+            
+                    <label class="modal__thumb5">
+                        <span class="modal__label">Text</span> 
+                        <textarea name="message" 
+                        id="message" 
+                        placeholder="Leave your text here" 
+                        class="modal__area"></textarea>
+                    </label>
+
+                    <button type="submit" class="modal-button__btn">Submit</button>
+                </form>
+
+            </div>
+        </div>
+                
+
+<script src="./js/modal.js?ver=2"></script>
+
+</body>
+</html>
